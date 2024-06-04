@@ -1,0 +1,6 @@
+.loader {
+    font-weight: bold;
+    color: red;
+    visibility: visible; /* 确保可见性 */
+  }
+  
